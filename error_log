@@ -1,0 +1,4 @@
+[03-May-2015 09:35:26 UTC] PHP Warning:  mkdir(): No such file or directory in /home/idposter/public_html/instagram/gen.php on line 23
+[03-May-2015 09:35:26 UTC] PHP Warning:  mkdir(): No such file or directory in /home/idposter/public_html/instagram/gen.php on line 30
+[03-May-2015 09:35:26 UTC] PHP Warning:  mkdir(): No such file or directory in /home/idposter/public_html/instagram/gen.php on line 33
+[03-May-2015 09:35:26 UTC] PHP Warning:  file_put_contents(/var/www/vhosts/idposter.com/httpdocs/instagram/collages/1466778206/1430645726/origs/914505_414236062073029_642382598_n.jpg): failed to open stream: No such file or directory in /home/idposter/public_html/instagram/gen.php on line 44
